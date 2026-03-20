@@ -8,6 +8,16 @@
 This project analyzes **coffee shop sales data** using an end-to-end analytics workflow involving **SQL, Python, and Power BI**.  
 The objective of the project is to clean raw data, integrate multiple datasets, perform exploratory data analysis, and build an interactive dashboard for business insights.
 
+---
+
+# Dashboard Preview
+
+<img width="889" height="502" alt="image" src="https://github.com/user-attachments/assets/0d396474-3a38-4c7c-9eb8-2ecec9c03db7" />
+
+<img width="889" height="501" alt="image" src="https://github.com/user-attachments/assets/b9a19046-b1e6-442f-b94a-b4830b940fb9" />
+
+---
+
 The project demonstrates a practical **data analytics pipeline used in industry**, where:
 
 - **SQL** is used for data cleaning and data integration  
